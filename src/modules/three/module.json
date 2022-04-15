@@ -1,0 +1,14 @@
+{
+    "imports": {
+        "Three": "Three.js"
+    },
+    "menuitems": [
+        {
+            "path": "/three",
+            "name": "Three",
+            "order": 20,
+            "element": "Three",
+            "hasRouting": true
+        }
+    ]
+}

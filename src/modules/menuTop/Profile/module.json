@@ -1,0 +1,19 @@
+{
+    "imports": {
+        "One": "Profile.js"
+    },
+    "menuitems": [
+        {
+            "path": "/profile",
+            "name": "profile",
+            "order": 0,
+            "element": "Profile"
+        },
+        {
+            "path": "/another-one",
+            "name": "Another menu entry for One",
+            "order": 50,
+            "element": "Profile"
+        }
+    ]
+}

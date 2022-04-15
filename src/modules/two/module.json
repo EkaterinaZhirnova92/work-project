@@ -1,0 +1,13 @@
+{
+    "imports": {
+        "Two": "Two.js"
+    },
+    "menuitems": [
+        {
+            "path": "/two",
+            "name": "Two",
+            "order": 10,
+            "element": "Two"
+        }
+    ]
+}
